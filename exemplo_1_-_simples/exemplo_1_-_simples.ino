@@ -7,8 +7,8 @@ motor.attach(3);
 
 void loop(){
 motor.write(160);
-delay(1000);
+delay(800);
 motor.write(16);
-delay(1000);
+delay(800);
 
 }
